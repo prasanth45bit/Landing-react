@@ -1,0 +1,230 @@
+.bg-container {
+    background-image:url("backk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    
+}
+.text-container {
+    align-content:center;
+    color:white;
+    border-style: none;
+    border-width:10px;
+    margin-top:150px;
+    padding-bottom   :200px;
+    margin-left:200px;
+    margin-right: 200px;
+    border-style:solid;
+    border-color:white;
+    padding:25px;
+    text-align:center;
+}
+.main-flex
+{
+    display: block;
+}
+.home-heading{
+    font-family:"Times New Roman";
+    font-size:38px; 
+
+}
+.home-span-heading {
+    font-weight:bold;
+    font-size:42px;
+}
+.home-subheading {
+    font-family:"Twinletter" ;
+}
+.home-para {
+    font-family:"Trebuchet MS";
+}
+.input-btn-merg-container{
+    background-color:white;
+    height:50px;
+    width:300px;
+    margin-left:150px;
+    border-radius:10px;
+    padding:5px;
+}
+.home-mail-input {
+    border-width:0px;
+    color:#7d7e80;
+    border-style:none;   
+}
+.recent-deal-image{
+    max-width:25vh;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    object-fit:cover;
+    background-image: url("img3.jpeg");
+
+}
+.subcribebtn
+{
+    background-color: rgb(245, 77, 77);
+    color: white;
+    height: 35px;
+    width: 80px;
+    border-radius: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.deals-card-container {
+    border-width:2px;
+    border-color:black;
+    box-shadow:5px 5px 5px black;
+    margin:10px; 
+    border-radius:20px;
+    object-fit: contain;   
+}
+.working-bgcontainer{
+    text-align:center;
+    margin:20px;
+}
+.deals-main-heading {
+    font-family:"Times New Roman";
+}
+.Deals-bg-container{
+    background-color:#ebeced;
+    padding:10px;
+    text-align:center;
+    margin:10px;
+    margin-top:100px;
+    
+}
+.deals-flex
+{
+    display: flex;
+    flex-direction: row;
+}
+.work-flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.deals-card-heading {
+    color:#06388a;
+    font-size:36px;
+}
+.text-card-container {
+    text-align:center;
+    padding:25px;
+    object-fit:contain;
+}
+.strike {
+    text-decoration:line-through;
+}
+.how-it-worksiheading{
+    font-family:"Times New Roman";
+    font-size:38px;
+    font-weight:"bold";   
+}
+.working-image{
+    width:24vh;
+    border-radius:20px;
+}
+.work-text-container{
+    margin:20px;
+    border-style:solid;
+    border-width:3px;
+    border-radius:20px;     
+}
+.work-para-container{
+    font-family:"Roboto";
+    text-align:center;
+}
+.lastbg-container {
+    background-image:url("background.jpg");
+    background-size:cover;
+    backdrop-filter:blur(10px) ;
+    padding: 20px;
+    margin:10px;
+    text-align: center;
+    align-content: center;
+}
+.lastbg-container  h1 {
+    color:white;
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.lasttext-container {
+    text-align: center;
+    border-style:solid;
+    border-width:2px;
+    border-color:whitesmoke;
+    border-radius:20px;
+    color:white;
+   background-color:transparent;
+    margin:10px;
+    padding:4px;
+    backdrop-filter:blur(10px);
+}
+.lasttext-container  h1 {
+    font-size:30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:wheat;
+}
+.bg-contact {
+    background-color:rgb(28, 29, 67);
+    text-align:center;
+    border-width:10px;
+    padding:10px;
+    border-color:white;
+    color:white;
+}
+.color-flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 60px;
+}
+.orange-flex
+{
+    background-color: rgb(253, 134, 91);
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    width: 250px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    
+}
+.blue-flex
+{
+    background-color: rgb(87, 155, 250);
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    width: 250px;
+    height: 100px;
+    margin: 20px;
+    padding-right: 20px;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}
+.green-flex
+{
+    background-color: rgb(43, 249, 149);
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    width: 250px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}
+.bg-contact h1 {
+    font-size:36px;
+    color:white;
+}
+.country-container{
+    display: flex;
+}
